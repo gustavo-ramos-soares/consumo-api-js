@@ -2,8 +2,9 @@
 
 Formulário de cadastro com preenchimento automático de endereço através da API ViaCEP.
 
-![Preview do projeto](./assets/cadastro-viacep.gif)
-
+<p align="center">
+  <img src="./assets/cadastro-viacep.gif" width="900" alt="Preview do Cadastro ViaCEP">
+</p>
 ---
 
 ## Sobre o projeto
